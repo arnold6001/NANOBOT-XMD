@@ -1,13 +1,13 @@
 {
-  "name": "Space-Xmd",
+  "name": "NANOBOT-XMD",
   "version": "1.0.0",
-  "description": "SPACE-XMD MULTI DEVICE",
+  "description": "NANOBOT-XMD MULTI DEVICE",
   "main": "index.js",
-  "Dev": "iconic_tech",
+  "Dev": "arnold_chirchir",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "ɪᴄᴏɴɪᴄ ᴛᴇᴄʜ",
+  "author": "Arnold Chirchir",
   "license": "Apache-2.0",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
