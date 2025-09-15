@@ -1,21 +1,21 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-/*      bot name Space XMD developed by iconic         tech new latest version follow instructions Don't      change not belong for user only dev will fix the      debug for my bot please contact us at https://.      codewave-unit.zone.id/support/contact-us.         */
+/*      bot name NANOBOT-XMD developed by ARNOLD CHIRCHIR new latest version follow instructions Don't      change not belong for user only dev will fix the      debug for my bot please contact us at https://wa.me/254703110780       */
 
 
 
 //contact details
-global.onwername = "ɪᴄᴏɴɪᴄ ᴛᴇᴄʜ"
-global.onwernumber = '263716304574' 
-global.BotName = '𝐒𝐏𝐀𝐂𝐄 𝐗𝐌𝐃'
-global.ytname = "YT: Tech-God"
-global.socialm = "GitHub: iconic05"
-global.location = "Zimbabwe, Bulawayo, city"
-global.packname = 'ɢᴇɴᴀʀᴇᴛɪᴏɴ ʙʏ'
-global.author = '𝐒𝐏𝐀𝐂𝐄 𝐗𝐌𝐃'
+global.onwername = "NANOBOT-XMD"
+global.onwernumber = '254703110780' 
+global.BotName = 'NANOBOT-XMD'
+global.ytname = "YT: Kylan Dylan"
+global.socialm = "GitHub: arnold6001"
+global.location = "Kenya, Kericho, city"
+global.packname = 'NANOBOT-XMD'
+global.author = 'NANOBOT-XMD'
 // Notice copy and follow official channel
-global.space_xmd_link = 'https://whatsapp.com/channel/0029ValX2Js9RZAVtDgMYj0r'
+global.channel_link = 'https://whatsapp.com/channel/0029VbAwhrYChq6JPHOMOT0L'
 //custom prefix
 global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
@@ -53,6 +53,6 @@ fs.watchFile(file, () => {
 })
 
 
-/*        Contact us https://codewave-unit.zone.id/.         support/contact-us 
-    Developed by iconic tech.                            */
+/*        Contact us https://wa.me/254703110780.         support/contact-us 
+    Developed by Arnold Chirchir.                            */
   
