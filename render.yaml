@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Space-Xmd
+    name: NANOBOT-XMD
     env: node
     plan: free
     region: oregon
