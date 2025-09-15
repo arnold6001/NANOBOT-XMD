@@ -1,4 +1,4 @@
-# 🚀 Space XMD  
+# 🚀 NANOBOT-XMD
 
 <p align="center">
   <img src="https://i.gifer.com/77b0.gif" width="250" alt="Space Online Animation"/>
@@ -22,7 +22,7 @@
   <a href="#last-update">
     <img src="https://img.shields.io/badge/🛠️ Last_Update-20_Aug_2025-blue?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029ValX2Js9RZAVtDgMYj0r">
+  <a href="https://whatsapp.com/channel/0029VbAwhrYChq6JPHOMOT0L">
     <img src="https://img.shields.io/badge/💬 Support-Channels-brightgreen?style=for-the-badge&logo=whatsapp"/>
   </a>
 </p>
@@ -40,7 +40,7 @@
 
 ## 📖 Description  
 
-✨ **Space XMD** has just been **reborn**.  
+✨ **NANOBOT-XMD** has just been **reborn**.  
 Enjoy **fantastic commands** and **free deployment** under a **modern and smart design**.  
 
 ---
@@ -62,7 +62,7 @@ New features and improvements are on the way. Stay tuned!
 
 ## 🔔 Stay Updated  
 
-- 📢 [Official WhatsApp Channel](https://whatsapp.com/channel/0029ValX2Js9RZAVtDgMYj0r)  
+- 📢 [Official WhatsApp Channel](https://whatsapp.com/channel/0029VbAwhrYChq6JPHOMOT0L)  
 
 ---
 
@@ -78,12 +78,12 @@ New features and improvements are on the way. Stay tuned!
 
 ## 🤝 Support  
 
-For any issues, join the **Support Channels** above or contact **Iconic Tech** directly.  
+For any issues, join the **Support Channels** above or contact **ARNOLD CHIRCHIR** directly.  
 
 ---
 
 <p align="center">
-  💡 Developed with ❤️ by <b>Iconic Tech</b>
+  💡 Developed with ❤️ by <b>ARNOLD CHIRCHIR</b>
 </p>
 
 ---
